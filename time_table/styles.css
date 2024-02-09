@@ -1,0 +1,10 @@
+td {
+  width: 80px;
+  padding: 10px;
+}
+
+.break {
+  width: 10px;
+  max-width: 10px;
+  word-wrap: break-word;
+}
