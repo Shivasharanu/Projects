@@ -1,0 +1,30 @@
+.logo {
+  height: 50px;
+  width: 50px;
+}
+
+.image {
+  height: 30em;
+  width: 30em;
+}
+
+td h1 {
+  font-size: 5rem;
+}
+
+button {
+  background-color: purple;
+}
+
+a {
+  display: inline;
+}
+
+button {
+  margin-left: auto;
+}
+
+ul {
+  margin-left: auto;
+  margin-right: auto;
+}
